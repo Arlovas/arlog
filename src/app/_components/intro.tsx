@@ -7,7 +7,7 @@ export function Intro() {
         {BLOG_NAME_PERIOD}        
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Nenhuma boa ação fica sem punição. 5
+        Nenhuma boa ação fica sem punição.
       </h4>
     </section>
   );
