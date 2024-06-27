@@ -1,14 +1,14 @@
 ---
 title: "I'm not in denial"
-excerpt: "Imagino que o primeiro post deveria ser sobre o início. Bunda e droga bunda e droga"
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+excerpt: "Imagino que o primeiro post deveria ser sobre o início."
+coverImage: "/assets/blog/denial/denial.jpg"
 date: "2024-06-26T06:06:06.666Z"
 dateFormat: 'pt-BR'
 author:
   name: Artur Comunello
   picture: "/assets/blog/authors/ramoner.png"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/denial/denial.jpg"
 ---
 
 Imagino que o primeiro post deveria ser sobre o início.  
