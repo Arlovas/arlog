@@ -1,5 +1,7 @@
 # Arlog
 
+> [arlovas.com.br](https://arlovas.com.br/)
+
 My take on reliving old times where content was created by humans, driven by the will to create, not just by the desire for fame or money.
 
 Small disclaimer, do what you want, but try to be proud of yourself in the process. Wanna create content only using AI and without soul? Be my guest xd
@@ -10,14 +12,27 @@ Main goal is to have a blog, write things I like and dislike. And this will also
 
 I'm using the NextJs blog template, and will be creating on top of it. To see more of the original code please visit the link below:
 
-**GIT** -> https://github.com/vercel/next.js/tree/canary/examples/blog-starter
+<br>
 
-**DEMO** -> [https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
+## Some features
+1. Github actions.
+   1. Used to auto deploy to a digital ocean droplet (vps)
+2. pm2 as node manager - (not paying for vercel if I can use free tools)
+3. NextJS
+4. My mind xD 
 
+<br>
 
 ## Create your own
 
 Give the world to your thought (at least to some of if). Start your own blog / diary. 
+
+<br>
+
+**GIT** -> https://github.com/vercel/next.js/tree/canary/examples/blog-starter
+
+**DEMO** -> [https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
+
 
 <br>
 
